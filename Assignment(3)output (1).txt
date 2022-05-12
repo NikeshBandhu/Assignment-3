@@ -1,0 +1,54 @@
+Enter the value:
+4
+0b100 in binary
+enter expression:
+4+7
+11
+Enter the number n: 
+2
+Enter the number r: 
+1
+Enter the angle a: 
+30
+Enter the angle b: 
+40
+Enter the number x1: 
+4
+Enter the number x2: 
+3
+Enter the number y1: 
+5
+Enter the number y2: 
+6
+(3+4)(5) =  35
+n(n-1)/2 =  2.0
+4(pi)r^2 =  37.69911184307752
+sqrt(r(cosa)^2 + r(sinb)^2) =  0.7609120394053085
+y2-y1/x2-x1 =  -1.0
+0
+1
+2
+3
+4
+
+4
+7
+10
+ 
+15
+13
+11
+9
+7
+ 
+Enter number of carbon atom: 
+2
+Enter number of oxygen:
+3
+Enter number of hydrogen atoms:
+5
+total weight of carbohydrate is: 77.0593
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
